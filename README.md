@@ -11,3 +11,15 @@
 House Price Prediction is basically a Regression problem in which we have to predict the price of house based on availble supervised data.We have used different regression algorithms like **XGBoost,Linear-Regression,Ridge Regression,Lasso Regression,Decision Tress and Random Forest.** Evaluation result of all these algorithms can be seen -->.[here](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BostonHousingFinalModelSelection.txt)
 
 - **Project 6 - Customer Segmentation using Clustering -->** [Click Here-->](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/CustomerSegmentationUsingClustering.ipynb) </br> Here we have used different clustering algorithms like K-Means Clustering,Hierarchical Clustering(Agglomerative Clustering) and DBSCSN(Density Based Spatial Clustering of application with Noise). We got highest Silhouett score in case of DBSCSN so DBSCSN algorithm is best for Customer Segmentation problem.
+
+## **7️⃣ ANN Implementations on Real-World Datasets**  
+
+### **🟦 Binary Classification**  
+- 🔹 [Customer Churn Prediction Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)  
+
+### **🟩 Multi-Class Classification**  
+- 🔹 [Handwritten Digit Recognition (MNIST) Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)  
+
+### **🟥 Regression with ANN**  
+- 🔹 [Neural Network for Regression Tasks](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)  
+
