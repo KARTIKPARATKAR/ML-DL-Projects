@@ -34,4 +34,7 @@
 - 🔹 [Handwritten Digit Recognition (MNIST) Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)  
 
 ### **🟥 Regression with ANN**  
-- 🔹 [Neural Network for Regression Tasks](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)  
+- 🔹 [Neural Network for Regression Tasks](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)
+
+ ###   **🐶🐱 CNN for Image Classification**  
+  🔹 [Dog vs. Cat Classification Using CNN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dog_VS_Cat_Classification_Using_CNN.ipynb)
