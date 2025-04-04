@@ -25,7 +25,7 @@
 
 ---
 
-## **7️⃣ ANN Implementations on Real-World Datasets**
+## ** Deep Learning on Real-World Datasets**
 
 ### **🟦 Binary Classification**  
 - 🔹 [Customer Churn Prediction Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)  
