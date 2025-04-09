@@ -1,5 +1,24 @@
 # ML-DL-Projects
 
+## ImageNet Pretrained Models For Binary CLassification Problem Using Transfer Learning-
+
+### [Pizza VS Not_Pizzza CLassification Using VGG16](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-transfer-learning-vgg16)
+
+## Deep Learning on Real-World Datasets
+
+### **🟦 Binary Classification**  
+- 🔹 [Customer Churn Prediction Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)  
+
+### **🟩 Multi-Class Classification**  
+- 🔹 [Handwritten Digit Recognition (MNIST) Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)  
+
+### **🟥 Regression with ANN**  
+- 🔹 [Neural Network for Regression Tasks](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)
+
+  -  **🐶🐱 CNN for Image Classification**  
+  🔹 [Dog vs. Cat Classification Using CNN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dog_VS_Cat_Classification_Using_CNN.ipynb)  </br>
+  🔹 [Alternative Solution of Dog vs Cat Classification Using CNN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DeepCNNImageClassifier_WithAnyImageipynb.ipynb)
+
 ## 🧠 Machine Learning Projects
 
 - **Project 1 - Fake News Detection Using Machine Learning** 📑
@@ -25,17 +44,4 @@
 
 ---
 
-## Deep Learning on Real-World Datasets
 
-### **🟦 Binary Classification**  
-- 🔹 [Customer Churn Prediction Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)  
-
-### **🟩 Multi-Class Classification**  
-- 🔹 [Handwritten Digit Recognition (MNIST) Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)  
-
-### **🟥 Regression with ANN**  
-- 🔹 [Neural Network for Regression Tasks](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)
-
-  -  **🐶🐱 CNN for Image Classification**  
-  🔹 [Dog vs. Cat Classification Using CNN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dog_VS_Cat_Classification_Using_CNN.ipynb)  </br>
-  🔹 [Alternative Solution of Dog vs Cat Classification Using CNN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DeepCNNImageClassifier_WithAnyImageipynb.ipynb)
