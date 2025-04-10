@@ -1,126 +1,67 @@
-# 🍕 ML-DL-Projects - Transfer Learning & Deep Learning Explorations
+# 🚀 ML-DL-Projects
 
-![Stars](https://img.shields.io/github/stars/KARTIKPARATKAR/ML-DL-Projects?style=social)
-![Forks](https://img.shields.io/github/forks/KARTIKPARATKAR/ML-DL-Projects?style=social)
-![License](https://img.shields.io/github/license/KARTIKPARATKAR/ML-DL-Projects)
-![Issues](https://img.shields.io/github/issues/KARTIKPARATKAR/ML-DL-Projects)
+## 🧠 Transfer Learning on Binary Image Classification
 
----
+### 🔍 Project: Pizza 🍕 vs Not Pizza ❌ using ImageNet Pretrained Models
 
-<!-- Optional fancy banner -->
-<!-- ![Banner](banner-image-url-here) -->
-
-## 📌 Table of Contents
-
-- [🔍 Project Overview](#project-overview)
-- [📂 Transfer Learning - Pizza vs Not Pizza](#transfer-learning---pizza-vs-not-pizza)
-- [📊 Deep Learning Projects](#deep-learning-projects)
-- [🧠 Machine Learning Projects](#machine-learning-projects)
+📦 **Dataset**: [Pizza vs Not_Pizza](https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza/data)  
+📊 **Compiled Results & Functions**: [View Report](https://1drv.ms/w/c/41d64490aa8f23a6/ESWLXPBK6k1Bpl-5Eqoz58MBxss3dPPTOTrV4pjyCZgMdA?e=vjo3J6)
 
 ---
 
-## 🔍 Project Overview
+### ✅ Transfer Learning Implementations:
 
-A comprehensive collection of Deep Learning and Machine Learning projects using real-world datasets and transfer learning techniques, including comparisons between multiple pretrained models on binary classification tasks.
-
----
-
-## 🍕 Transfer Learning - Pizza vs Not Pizza
-
-📁 **Dataset**: [Pizza vs Not Pizza on Kaggle](https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza/data)  
-📈 **Compiled Results & Function Summary**: [Click Here](https://1drv.ms/w/c/41d64490aa8f23a6/ESWLXPBK6k1Bpl-5Eqoz58MBxss3dPPTOTrV4pjyCZgMdA?e=vjo3J6)
-
-<details>
-<summary><strong>🔍 Explore Each Model</strong></summary>
-
-- 🔸 [Transfer Learning with VGG16](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-transfer-learning-vgg16)  
-- 🔸 [Transfer Learning with InceptionV3](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-transfer-learning-inceptionv3)  
-- 🔸 [Transfer Learning with MobileNetV2](https://www.kaggle.com/code/kartikparatkar/pizza-vs-notpizzausingtransferlearning-mobilenetv2)  
-- 🔸 [Transfer Learning with EfficientNetB0](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-efficientnetb0)  
-- 🔸 [Transfer Learning with EfficientNetB4](https://www.kaggle.com/code/kartikparatkar/pizzavsnotpizzausingefficientnetb4)  
-
-</details>
+- 🔹 [VGG16 - Pizza Classification](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-transfer-learning-vgg16)
+- 🔹 [InceptionV3 - Pizza Classification](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-transfer-learning-inceptionv3)
+- 🔹 [MobileNetV2 - Pizza Classification](https://www.kaggle.com/code/kartikparatkar/pizza-vs-notpizzausingtransferlearning-mobilenetv2)
+- 🔹 [EfficientNetB0 - Pizza Classification](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-efficientnetb0)
+- 🔹 [EfficientNetB4 - Pizza Classification](https://www.kaggle.com/code/kartikparatkar/pizzavsnotpizzausingefficientnetb4)
 
 ---
 
-## 📊 Deep Learning Projects
+## 🧪 Deep Learning Projects on Real-World Datasets
 
-<details>
-<summary><strong>🔵 Binary Classification</strong></summary>
+### 🔷 Binary Classification
+- 🧾 [Customer Churn Prediction (ANN)](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)
 
-- [Customer Churn Prediction Using ANN](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/CustomerChurnPredictionUsingANN.ipynb)  
+### 🟢 Multi-Class Classification
+- ✍️ [MNIST - Handwritten Digit Recognition (ANN)](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)
 
-</details>
+### 🔴 Regression
+- 📈 [Neural Network for Regression](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)
 
-<details>
-<summary><strong>🟢 Multi-Class Classification</strong></summary>
-
-- [Handwritten Digit Recognition (MNIST)](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/MNIST_classification.ipynb)
-
-</details>
-
-<details>
-<summary><strong>🔴 Regression with ANN</strong></summary>
-
-- [Neural Network for Regression](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/ANN_For__Regression_Problem.ipynb)
-
-</details>
-
-<details>
-<summary><strong>🐶🐱 CNN for Image Classification</strong></summary>
-
-- [Dog vs. Cat Classification](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dog_VS_Cat_Classification_Using_CNN.ipynb)  
-- [Alt. CNN Classifier for Dog vs. Cat](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DeepCNNImageClassifier_WithAnyImageipynb.ipynb)
-
-</details>
+### 🐾 CNN for Image Classification
+- 🐶🐱 [Dog vs Cat Classification (CNN)](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/Dog_VS_Cat_Classification_Using_CNN.ipynb)
+- 🧠 [Advanced CNN Solution - Any Image Input](https://github.com/KARTIKPARATKAR/DEEP-LEARNING-WORK/blob/main/DeepCNNImageClassifier_WithAnyImageipynb.ipynb)
 
 ---
 
-## 🧠 Machine Learning Projects
+## 🔍 Machine Learning Projects
 
-<details>
-<summary><strong>📑 Fake News Detection</strong></summary>
+### 📑 Fake News Detection
+- 🔍 [Logistic Regression](https://github.com/KARTIKPARATKAR/Fake-News-Detection-Using-Machine-Learning/blob/main/Project_Fake_News_Detection_.ipynb)
 
-- [Logistic Regression Model](https://github.com/KARTIKPARATKAR/Fake-News-Detection-Using-Machine-Learning/blob/main/Project_Fake_News_Detection_.ipynb)
+### ⛏️ Sonar Rock vs Mine Prediction
+- 📡 [Logistic Regression](https://github.com/KARTIKPARATKAR/SONAR-Rock-VS-Mine-Prediction-Using-Machine-Learning)
 
-</details>
+### 🎗️ Breast Cancer Prediction
+- 🧪 [Notebook](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BreastCancerClassificationUsingLR_SVM_DT_RF.ipynb)  
+  Implements Logistic Regression, SVM, Decision Tree, Naïve Bayes, KNN  
+  📊 [Accuracy Results](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BreastCancerPrediction.txt)
 
-<details>
-<summary><strong>⛏️ Sonar Rock vs Mine Prediction</strong></summary>
+### 🩸 Diabetes Prediction
+- 🩺 [Support Vector Machine](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/DiabetesPrediction.ipynb)
 
-- [Logistic Regression Model](https://github.com/KARTIKPARATKAR/SONAR-Rock-VS-Mine-Prediction-Using-Machine-Learning)
+### 🏡 Boston House Price Prediction
+- 📉 [Regression Notebook](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/HousePricePredictionUsingRegression.ipynb)  
+  Techniques: XGBoost, Linear Regression, Ridge, Lasso, Decision Tree, Random Forest  
+  📊 [Evaluation Results](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BostonHousingFinalModelSelection.txt)
 
-</details>
-
-<details>
-<summary><strong>🎗️ Breast Cancer Prediction</strong></summary>
-
-- [Complete Notebook](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BreastCancerClassificationUsingLR_SVM_DT_RF.ipynb)  
-- [Model Accuracy Comparisons](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BreastCancerPrediction.txt)
-
-</details>
-
-<details>
-<summary><strong>🩸 Diabetes Prediction</strong></summary>
-
-- [Support Vector Machine Model](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/DiabetesPrediction.ipynb)
-
-</details>
-
-<details>
-<summary><strong>🏡 House Price Prediction</strong></summary>
-
-- [Full Notebook](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/HousePricePredictionUsingRegression.ipynb)  
-- [Model Evaluation](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BostonHousingFinalModelSelection.txt)
-
-</details>
-
-<details>
-<summary><strong>👥 Customer Segmentation (Clustering)</strong></summary>
-
-- [Notebook](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/CustomerSegmentationUsingClustering.ipynb)
-
-</details>
+### 👥 Customer Segmentation (Clustering)
+- 🧾 [Clustering Models](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/CustomerSegmentationUsingClustering.ipynb)  
+  Uses K-Means, Hierarchical (Agglomerative), DBSCAN  
+  ✅ Best performance: DBSCAN with highest silhouette score
 
 ---
 
+✨ Feel free to ⭐ this repo if you find it useful or inspiring!
