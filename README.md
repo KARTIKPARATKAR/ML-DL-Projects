@@ -10,6 +10,8 @@
 
 #### [Pizza VS Not_Pizzza Classification Using Transfer Learning with EfficientNetB0](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-efficientnetb0) <br/>
 
+#### [Pizza VS Not_Pizzza Classification Using Transfer Learning with EfficientNetB0](https://www.kaggle.com/code/kartikparatkar/pizzavsnotpizzausingefficientnetb4)
+
 
 ## Deep Learning on Real-World Datasets
 
