@@ -2,6 +2,8 @@
 
 ## ImageNet Pretrained Models For Binary CLassification Problem Using Transfer Learning-
 
+### Dataset Used - [Pizza VS Not_Pizza](https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza/data)
+
 #### [Pizza VS Not_Pizzza Classification Using Transfer Learning with VGG16](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-transfer-learning-vgg16)  
 
 #### [Pizza VS Not_Pizzza Classification Using Transfer Learning with InceptionV3](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-transfer-learning-inceptionv3) 
