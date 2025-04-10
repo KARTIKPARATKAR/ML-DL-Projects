@@ -4,6 +4,8 @@
 
 ### Dataset Used - [Pizza VS Not_Pizza](https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza/data)
 
+### Functions Used and Final Results are compiled here - [Here](https://1drv.ms/w/c/41d64490aa8f23a6/ESWLXPBK6k1Bpl-5Eqoz58MBxss3dPPTOTrV4pjyCZgMdA?e=vjo3J6)
+
 #### [Pizza VS Not_Pizzza Classification Using Transfer Learning with VGG16](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-transfer-learning-vgg16)  
 
 #### [Pizza VS Not_Pizzza Classification Using Transfer Learning with InceptionV3](https://www.kaggle.com/code/kartikparatkar/pizza-vs-not-pizza-transfer-learning-inceptionv3) 
