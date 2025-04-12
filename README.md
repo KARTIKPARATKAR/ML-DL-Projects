@@ -5,7 +5,8 @@
 ### 🔍 Project: Paws, People & Pals: A Visual Trio Classification using ImageNet Pretrained Model (EfficientNetB5)
 
 📦 **Dataset**: [Paws, People & Pals: A Visual Trio](https://www.kaggle.com/datasets/raunakgola/paws-people-and-pals-a-visual-trio/data)  
-- 🔹 [Transfer Learning Implementation Using EfficientNetB5 Pretrained Model](https://www.kaggle.com/code/kartikparatkar/multiclassclassificationusingefficientnetb4)
+- > 📘 **Implementation Notebook**: [Transfer Learning with EfficientNetB5](https://www.kaggle.com/code/kartikparatkar/multiclassclassificationusingefficientnetb4)
+
 
 ## 🧠 Transfer Learning on Binary Image Classification
 
