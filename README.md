@@ -1,5 +1,12 @@
 # 🚀 ML-DL-Projects
 
+## 🧠 Transfer Learning on Multiclass Image Classification
+
+### 🔍 Project: Paws, People & Pals: A Visual Trio Classification using ImageNet Pretrained Model (EfficientNetB5)
+
+📦 **Dataset**: [Paws, People & Pals: A Visual Trio](https://www.kaggle.com/datasets/raunakgola/paws-people-and-pals-a-visual-trio/data)  
+- 🔹 [Transfer Learning Implementation Using EfficientNetB5 Pretrained Model](https://www.kaggle.com/code/kartikparatkar/multiclassclassificationusingefficientnetb4)
+
 ## 🧠 Transfer Learning on Binary Image Classification
 
 ### 🔍 Project: Pizza 🍕 vs Not Pizza ❌ using ImageNet Pretrained Models
