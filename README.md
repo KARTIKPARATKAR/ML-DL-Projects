@@ -62,7 +62,7 @@
 
 ### 🏡 Boston House Price Prediction
 - 📉 [Regression Notebook](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/HousePricePredictionUsingRegression.ipynb)  
-  Techniques: XGBoost, Linear Regression, Ridge, Lasso, Decision Tree, Random Forest  
+  Techniques: XGBoost, Linear Regression, Ridge, Lasso, Decision Tree, Random Forest
   📊 [Evaluation Results](https://github.com/KARTIKPARATKAR/MACHINE-LEARNING-WORK/blob/main/BostonHousingFinalModelSelection.txt)
 
 ### 👥 Customer Segmentation (Clustering)
